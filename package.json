@@ -1,0 +1,15 @@
+{
+  "name": "amigo-oculto",
+  "version": "1.0.0",
+  "description": "Sistema de sorteio de Amigo Oculto com Node.js e Twilio",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "twilio": "^4.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
